@@ -7,7 +7,7 @@ Hi everyone! I am Jeffrey, an current mechanical engineering PhD candidate in th
   - Scientific Computing
   - Nonlinear Solid Mechanics
   - Mechanical Metamaterials
-  - Mechanical Computing
+  - Mechanical Computing/Intelligence
 
 <div id="badges">
   <p align = "center">
