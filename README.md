@@ -1,12 +1,13 @@
 # Peerasait Prachaseree (Jeffrey)
 
-Hi everyone! I am Jeffrey, an current mechanical engineering PhD candidate in the [Lejeune Lab](https://github.com/Lejeune-Lab/) at Boston University. Originally, I am from Thailand. I completed my bachelor's degree in mechanical engineering from University of California, San Diego. Currently, I work at the intersection between applied mechanics and computational science to model and understand the behaviour of solids under finite deformation for applications in biomechanics and engineered materials.
+Hi everyone! I am Jeffrey, a current Postdoctoral Associate at the [DeCoDE lab](https://decode.mit.edu/) at Massachusetts Institute of Technology. I completed my PhD in the [Lejeune Lab](https://github.com/Lejeune-Lab/) at Boston University. Originally, I am from Thailand. I completed my bachelor's degree in mechanical engineering from University of California, San Diego. Currently, I work at the intersection between applied mechanics and computational science to design and model globally emergent behavior from local geometric/material heterogeneities through a combination of physics-based models and data-driven approaches. 
 
 - 🔭 Current Research Interests: 
   - Computational/Applied mechanics
   - Scientific Computing
   - Nonlinear Solid Mechanics
   - Mechanical Metamaterials
+  - Functionally Graded Composites
   - Mechanical Computing/Intelligence
 
 <div id="badges">
