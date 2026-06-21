@@ -20,7 +20,7 @@ Hi everyone! I am Jeffrey, a current Postdoctoral Associate at the [DeCoDE lab](
   <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail">
   <a>
     
-  <a href="https://scholar.google.com/citations?user=jQ_4oT8AAAAJ">
+  <a href="https://scholar.google.com/citations?user=m0fUFuUAAAAJ&hl=en&oi=ao">
   <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Scholar-lightgray?style=for-the-badge&logo=googlescholar">
   <a>
 
