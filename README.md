@@ -16,7 +16,7 @@ Hi everyone! I am Jeffrey, a current Postdoctoral Associate at the [DeCoDE lab](
   <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin">
   <a>  
 
-  <a href="mailto:pprachas@bu.edu">
+  <a href="mailto:pprachas@mit.edu">
   <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail">
   <a>
     
